@@ -13,7 +13,7 @@ import uuid
 # COMMAND ----------
 
 # Storage Connection Initialization
-container_name = "iot-messages"
+container_name = "iot-messages1"
 iothub_name = "rmm-dev-iot"
 storage_account_name1 = "storageaccforeventgrid"
 storage_account_name = "messagestorage4poc" #DEV6
